@@ -1,0 +1,28 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python package structure
+**/__init__.py
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environnements virtuels
+env/
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
